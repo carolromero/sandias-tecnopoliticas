@@ -1,8 +1,8 @@
 title:              Sandías tecnopolíticas
 email:              your-email@example.com
-##description:      A Blog Theme by Start Bootstrap
+description:        A Blog Theme by Start Bootstrap
 author:             Sandías
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/sandias-tecnopoliticas"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
