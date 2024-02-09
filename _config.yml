@@ -2,8 +2,8 @@ title:              Tecnosandías
 email:              tecnosandias@gmail.com
 description:        A space for technopolitical solidarity
 author:             Sandías
-baseurl:            "/tecnosandias"
-url:                "https://startbootstrap.github.io"
+baseurl:            ""
+url:                "https://tecnosandias.org"
 
 # Social Profiles
 twitter_username:   SBootstrap
