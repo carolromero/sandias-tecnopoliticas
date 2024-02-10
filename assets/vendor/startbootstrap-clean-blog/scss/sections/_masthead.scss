@@ -17,7 +17,15 @@ header.masthead {
         background-color: $gray-900;
         opacity: 0.5;
     }
-
+header.home {
+    // TIP: Background images are set within the HTML using inline CSS!
+    margin-bottom: 50px;
+    background: repeat center center;
+    background-color: $gray-600;
+    background-attachment: scroll;
+    position: relative;
+    background-size: contain;
+    }
     .page-heading,
     .post-heading,
     .site-heading {
