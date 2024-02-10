@@ -93,7 +93,7 @@ header.masthead {
         }
     }
 }
-
+// Styling for the homehead
 header.home {
     // TIP: Background images are set within the HTML using inline CSS!
     margin-bottom: 50px;
@@ -109,7 +109,7 @@ header.home {
         left: 0;
         height: 100%;
         width: 100%;
-        background-color: $gray-900;
+        background-color: none;
         opacity: 0.5;
     }
     .page-heading,
