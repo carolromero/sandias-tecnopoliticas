@@ -3,7 +3,8 @@ email:              tecnosandias@gmail.com
 description:        A space for technopolitical solidarity
 author:             Sandías
 baseurl:            ""
-url:                "https://tecnosandias.org"
+url:                "https://www.tecnosandias.org"
+image:              "/img/bg-israel-mwc.jpg"
 
 # Social Profiles
 twitter_username:   
