@@ -4,7 +4,6 @@ description:        An impulse of technopolitical solidarity
 author:             Sandías
 baseurl:            ""
 url:                "https://www.tecnosandias.org"
-image:              "/img/bg-israel-mwc.jpg"
 
 # Social Profiles
 twitter_username:   
@@ -20,6 +19,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
+paginate_path:      "/campaigns/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
